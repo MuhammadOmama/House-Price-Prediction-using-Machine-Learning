@@ -83,3 +83,8 @@ Preprocessing includes:
 ```bash
 git clone [https://github.com/yourusername/House-Price-Prediction.git](https://github.com/MuhammadOmama/House-Price-Prediction-using-Machine-Learning
 cd House-Price-Prediction
+
+### 2. Installation Command for Users
+pip install -r requirements.txt
+
+
